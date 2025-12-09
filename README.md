@@ -1,2 +1,2 @@
 # dpr-warrant-portal
-dpr-warrant-portal refresh
+warrant portal a-z.txt
